@@ -1906,6 +1906,7 @@ add list="China_Cidr" address=103.152.28.0/23
 add list="China_Cidr" address=103.152.56.0/23
 add list="China_Cidr" address=103.152.76.0/23
 add list="China_Cidr" address=103.152.186.0/23
+add list="China_Cidr" address=103.152.208.0/23
 add list="China_Cidr" address=103.152.224.0/24
 add list="China_Cidr" address=103.154.30.0/23
 add list="China_Cidr" address=103.154.41.0/24
@@ -3223,7 +3224,12 @@ add list="China_Cidr" address=124.31.0.0/16
 add list="China_Cidr" address=124.40.112.0/20
 add list="China_Cidr" address=124.40.128.0/18
 add list="China_Cidr" address=124.40.192.0/19
-add list="China_Cidr" address=124.42.0.0/16
+add list="China_Cidr" address=124.42.0.0/17
+add list="China_Cidr" address=124.42.132.0/22
+add list="China_Cidr" address=124.42.140.0/22
+add list="China_Cidr" address=124.42.144.0/20
+add list="China_Cidr" address=124.42.160.0/19
+add list="China_Cidr" address=124.42.192.0/18
 add list="China_Cidr" address=124.47.0.0/18
 add list="China_Cidr" address=124.64.0.0/15
 add list="China_Cidr" address=124.66.0.0/17
